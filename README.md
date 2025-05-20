@@ -39,7 +39,7 @@ How have resale HDB prices evolved in Singapore from 2016 to 2021, and what tren
 
 ---
 
-### 📈 Dashboard Features
+### Dashboard Features
 
 The dashboards include:
 
@@ -59,7 +59,7 @@ The dashboards include:
 
 ---
 
-### 🗣Why This Analysis Matters
+### Why This Analysis Matters
 
 This project exemplifies how data storytelling can simplify complex datasets, guiding users through visual insights. The interactivity and clean design promote engagement and help non-technical users answer critical real estate questions with confidence.
 
@@ -67,17 +67,10 @@ By focusing on **usability, clarity, and narrative flow**, this project reflects
 
 ---
 
-### Presentation
-
-A [3-minute video presentation](#) (link to video if uploaded to YouTube or another platform) walks through the dashboards, insights, and analytical approach. *(Note: Replace this with a real link when available.)*
-
----
-
 ### Tools & Technologies
 
 * **Tableau Public**
-* **Microsoft Excel** for initial data cleaning
-* **Data Source**: [data.gov.sg](https://data.gov.sg/)
+* **Microsoft Excel** 
 
 ---
 
